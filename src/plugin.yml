@@ -1,0 +1,5 @@
+name: IdissyDiscordStats
+main: me.dahpr0gam3r.IdissyDiscordStats.StatsMain
+author: dahpr0gam3r
+depend: [LegendQuest,MinecraftHook]
+version: 1.0.0
